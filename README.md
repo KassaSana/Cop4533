@@ -16,7 +16,7 @@ Tracks runtime, nodes expanded, edges relaxed, and shortest‑path length.
 
 1. **Clone the Repo**  
    ```bash
-   git clone https://github.com/somerandomlink
-   cd dijkstra-maze-solver
+   git clone https://github.com/KassaSana/Cop4533.git
+   
 2. **Compile Code**
 3. **Results Output in Terminal**
